@@ -1,4 +1,12 @@
-https://arxiv.org/abs/1908.01609
-https://arxiv.org/abs/1908.00158
-https://arxiv.org/abs/1908.03994v1
-https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0208073
+The Role of Multiplicative Complexity in Compiling Low T-count Oracle Circuits, 2019 https://arxiv.org/abs/1908.01609
+Quantum Temporal Logic: from Birkhoff and von Neumann to Pnueli, 2019 https://arxiv.org/abs/1908.00158
+Quantum compiling on locally adjusted circuits of designated architecture, 2019 https://arxiv.org/abs/1908.03994v1
+Quantum++: A modern C++ quantum computing library, 2018 https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0208073
+Programming languages and compiler design for realistic quantum hardware, 2017 https://www.nature.com/articles/nature23459
+An Efficient Quantum Compiler that reduces T count, 2018 https://arxiv.org/abs/1712.01557
+A software methodology for compiling quantum programs, 2018 https://iopscience.iop.org/article/10.1088/2058-9565/aaa5cc
+NISQ circuit compilers: search space structure and heuristics, 2018 https://arxiv.org/abs/1806.07241
+Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers, 2019 https://arxiv.org/abs/1902.01474
+Quantum-assisted quantum compiling, 2019 https://arxiv.org/abs/1807.00800
+Qubit Allocation for Noisy Intermediate-Scale Quantum Computers, 2018 https://arxiv.org/abs/1810.08291
+Basic circuit compilation techniques for an ion-trap quantum machine, 2017 https://arxiv.org/abs/1603.07678
